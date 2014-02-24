@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBModel\FileDataModel.cs" />
+    <Compile Include="Services\IKnowHowToSendEmails.cs" />
     <Compile Include="Services\IAmAnInputService.cs" />
     <Compile Include="Services\IKnowHowToTalkToTheTaskManagerApp.cs" />
     <Compile Include="Services\IKnowHowToTransformData.cs" />

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsKata", "UnitTestsKata\UnitTestsKata.csproj", "{4FFA2D8D-D7C7-44A2-87A7-6920DD686BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste", "teste\teste.csproj", "{C6228476-84B9-4DC7-8196-390E67AF545E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{4FFA2D8D-D7C7-44A2-87A7-6920DD686BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFA2D8D-D7C7-44A2-87A7-6920DD686BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFA2D8D-D7C7-44A2-87A7-6920DD686BE4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6228476-84B9-4DC7-8196-390E67AF545E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6228476-84B9-4DC7-8196-390E67AF545E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6228476-84B9-4DC7-8196-390E67AF545E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6228476-84B9-4DC7-8196-390E67AF545E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

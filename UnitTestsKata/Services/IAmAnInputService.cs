@@ -1,4 +1,4 @@
-﻿namespace UnitTestsKata
+﻿namespace UnitTestsKata.Services
 {
     public interface IAmAnInputService
     {
