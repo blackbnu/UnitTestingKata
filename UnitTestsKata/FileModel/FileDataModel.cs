@@ -1,4 +1,4 @@
-﻿namespace UnitTestsKata
+﻿namespace UnitTestsKata.FileModel
 {
     public class FileDataModel
     {

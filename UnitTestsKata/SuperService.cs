@@ -4,10 +4,12 @@ using UnitTestsKata.Services;
 
 namespace UnitTestsKata
 {
+    using UnitTestsKata.FileModel;
+
     //- Can you please make sure that we're not adding invalid LegalEntities to our system?
     //- Hey dumbass! I've been receiving two idential notification e-mails every morning... please, fix that!
     //- Dear IT Nerd, please stop playing DOTA and tell me why I didn't receive any notification email this morning! 
-    //  If something went wrong with the process, I wanna be notified! 
+    //  If something went wrong with the SuperService, I wanna be notified! 
     //    After a quick investigation, we found this execution log:
          //System.IO.FileNotFoundException : Unable to find the specified file.
          //at InputService.ReadFiles() 
